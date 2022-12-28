@@ -29,4 +29,5 @@ Choose the components wisely according to their availability, costing and lead t
 MAX78000 Evaluation Kit.
 
 ![ESP32_Kit](https://user-images.githubusercontent.com/60318299/209854502-92f74f66-4a48-4290-826b-409d0c2c1412.png)
+
 ESP32 Kit.
