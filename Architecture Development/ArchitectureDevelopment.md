@@ -26,4 +26,7 @@ Choose the components wisely according to their availability, costing and lead t
 3. Try to order Eval Kits for all the major IC and check the functionlity if you have larger budget. Below is the image for the above given example.
 
 ![EVAL KIT](https://user-images.githubusercontent.com/60318299/209854283-1cdc1c82-b649-4d8d-921b-4af359ac1a7a.png)
+MAX78000 Evaluation Kit.
+
 ![ESP32_Kit](https://user-images.githubusercontent.com/60318299/209854502-92f74f66-4a48-4290-826b-409d0c2c1412.png)
+ESP32 Kit.
