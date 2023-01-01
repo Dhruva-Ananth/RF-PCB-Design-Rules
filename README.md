@@ -7,3 +7,5 @@ Division of the Sections:
 3. PCB making video for both.
 4. Design Verification by simulation.
 5. Some PCB design examples for remembering thumb rules.
+
+Anyone interested in collaborating to develop this, please do drop an email to ananthadattadhruva@gmail.com. Any help is highly appreciated, thanks!
