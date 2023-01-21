@@ -9,3 +9,6 @@ Division of the Sections:
 5. Some PCB design examples for remembering thumb rules.
 
 Anyone interested in collaborating to develop this, please do drop an email to ananthadattadhruva@gmail.com. Any help is highly appreciated, thanks!
+
+PS> Notes:
+1. If you want to make a PCB board like a heater, use a updown streaming of current through long lanes and that with sufficiently small tracewidth, will help generate Heat.
