@@ -15,6 +15,9 @@ PS> Notes:
 
 
 All Extra Links: Quite helpful, thanks to [Sierra Ciruits](https://www.protoexpress.com/blog/ipc-class-2-vs-class-3-different-design-rules/)
+
 [IPC Class 3 Design Guidelines](https://pages.protoexpress.com/rs/727-TSC-367/images/IPC%20Class%203%20Design%20Guide.pdf)
+
 [Automotive PCB Guide](https://www.protoexpress.com/blog/10-automotive-pcb-design-guidelines/)
+
 [Signal Integrity e-book](https://pages.protoexpress.com/rs/727-TSC-367/images/Signal%20Integrity%20for%20PCB%20Designers%20eBook.pdf)
