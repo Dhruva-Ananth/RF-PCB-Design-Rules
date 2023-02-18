@@ -13,4 +13,8 @@ Anyone interested in collaborating to develop this, please do drop an email to a
 PS> Notes:
 1. If you want to make a PCB board like a heater, use a updown streaming of current through long lanes and that with sufficiently small tracewidth, will help generate Heat.
 
-Extra Links: Quite helpful, thanks to [Sierra Ciruits](https://www.protoexpress.com/blog/ipc-class-2-vs-class-3-different-design-rules/)
+
+All Extra Links: Quite helpful, thanks to [Sierra Ciruits](https://www.protoexpress.com/blog/ipc-class-2-vs-class-3-different-design-rules/)
+[IPC Class 3 Design Guidelines](https://pages.protoexpress.com/rs/727-TSC-367/images/IPC%20Class%203%20Design%20Guide.pdf)
+[Automotive PCB Guide](https://www.protoexpress.com/blog/10-automotive-pcb-design-guidelines/)
+[Signal Integrity e-book](https://pages.protoexpress.com/rs/727-TSC-367/images/Signal%20Integrity%20for%20PCB%20Designers%20eBook.pdf)
